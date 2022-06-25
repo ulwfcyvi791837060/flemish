@@ -17,7 +17,7 @@
 		<commons-lang-version>2.6</commons-lang-version>
 		<jetty-client-version>9.3.10.v20160621</jetty-client-version>
 		<mongo-driver-version>3.4.1</mongo-driver-version>
-		<spring-data-mongodb-version>1.9.6.RELEASE</spring-data-mongodb-version>
+		<spring-data-mongodb-version>3.3.5</spring-data-mongodb-version>
 		<spring-data-redis-version>1.7.1.RELEASE</spring-data-redis-version>
 		<jackson.core.version>2.7.5</jackson.core.version>
 		<commons.fileupload.version>1.3.2</commons.fileupload.version>
